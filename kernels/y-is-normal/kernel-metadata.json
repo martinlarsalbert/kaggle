@@ -1,0 +1,21 @@
+{
+  "id": "martinlarsalbert/y-is-normal",
+  "id_no": 16240180,
+  "title": "y_is_normal",
+  "code_file": "y-is-normal.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "keywords": [
+    "linear regression",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "seaborn"
+  ],
+  "dataset_sources": [],
+  "kernel_sources": [],
+  "competition_sources": []
+}
