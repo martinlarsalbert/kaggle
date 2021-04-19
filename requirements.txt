@@ -1,1 +1,8 @@
 kaggle
+jupyterlab
+matplotlib
+pandas
+numpy
+sympy
+sklearn
+seaborn
