@@ -6,3 +6,4 @@ numpy
 sympy
 sklearn
 seaborn
+jupyter_to_medium
